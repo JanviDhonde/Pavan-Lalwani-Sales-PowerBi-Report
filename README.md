@@ -66,7 +66,7 @@ Based on the insights, the following strategies are suggested:
 
 ### 🖼️ Dashboard Preview
 
-![Dashboard Preview](./Pavan_Lalwani_Sales_Analysis_Report.png)
+![Pavan-Lalwani-Sales-PowerBi-Repport](./Pavan_Lalwani_Sales_Analysis_Report.png)
 
 ### 🌟 Why This Project Matters
 
